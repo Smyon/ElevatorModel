@@ -12,7 +12,7 @@ public class House {
     }
 
     public int getTotalFloors() {                               // Это называется инкапсуляцией
-        return totalFloors;                                     // Прячим поле и обращяемся к нему через методы
+        return totalFloors;                                     // Прячем поле и обращаемся к нему через методы
     }
 
     public void setTotalFloors(int totalFloors) {
